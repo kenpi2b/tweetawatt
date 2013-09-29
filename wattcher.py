@@ -9,8 +9,8 @@ import logging
 import socket
 
 # OEM GATEWAY CONFIG
-HOST = '192.168.1.52' 	# the remote host
-PORT = 50011 		# chosen  in the gateway config
+HOST = '192.168.xxx.xxx' 	# the remote host
+PORT = 50011 			# chosen  in the gateway config
 NODEID = 1
 
 # Log file stuff
